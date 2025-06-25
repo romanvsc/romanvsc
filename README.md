@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hola <img alt="dsmark" height="60px" width="80px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img> , Soy Roman!<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-<!--
-**romanvsc/romanvsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi
 
-Here are some ideas to get you started:
+<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estudiante de Analista de Sistemas.
+- 🤔 Aprendiendo HTML, JS, CSS, REACT.
+
+<summary>
+  <h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"width="28" /> Para Contactarme</h2>
+</summary>
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</span>
