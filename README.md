@@ -5,7 +5,6 @@
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
 - 🔭 Estudiante de Analista de Sistemas.
-- 🤔 Aprendiendo HTML, JS, CSS.
 
 <summary>
   <h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"width="28" /> Para Contactarme</h2>
