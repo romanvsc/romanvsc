@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero.svg" alt="Román Vogel Corach — Sistemas, interfaces y experiencias digitales" width="100%" />
+  <img src="hero.svg" alt="Román Vogel Corach — Sistemas, interfaces y experiencias digitales" width="100%" />
 
   <p>
     <a href="https://portfolio-roman-wheat.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-10B981?style=for-the-badge&amp;labelColor=101B17&amp;color=168B66" /></a>
